@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace _30DaysOfCode
 {
@@ -17,8 +19,38 @@ namespace _30DaysOfCode
             //Day12_Inheritance();
             //Day13_AbstractClasses();
             //Day18_QueuesAndStacks();
-            Day25_Running_Time_Complexity();
+            //Day25_Running_Time_Complexity();
+            Day28_Regex();
             Console.ReadKey();
+        }
+
+        private static void Day28_Regex()
+        {
+            var names = new List<string>();
+            var regexName = new Regex(@"[a-z]");
+            var regexEmail = new Regex(@"@gmail.com$");
+
+            int N = Convert.ToInt32(Console.ReadLine());
+            for (int a0 = 0; a0 < N; a0++)
+            {
+                string[] tokens_firstName = Console.ReadLine().Split(' ');
+                string firstName = tokens_firstName[0];
+                string emailID = tokens_firstName[1];
+
+                var matchName = regexName.Match(firstName);
+                var matchEmail = regexEmail.Match(emailID);
+                if (matchName.Success && matchEmail.Success)
+                {
+                    names.Add(firstName);
+                }
+            }
+
+            names.Sort();
+
+            foreach (var name in names)
+            {
+                Console.WriteLine("{0}", name);
+            }
         }
 
         private static void Day25_Running_Time_Complexity()
