@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo", "Kangaroo\Kangar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakingTheRecords", "BreakingTheRecords\BreakingTheRecords.csproj", "{A518D9CD-F95E-4DB0-8D57-6BFCFAFD145F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayChocolate", "BirthdayChocolate\BirthdayChocolate.csproj", "{33BF4F7E-2111-4529-9369-784B8E105569}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{A518D9CD-F95E-4DB0-8D57-6BFCFAFD145F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A518D9CD-F95E-4DB0-8D57-6BFCFAFD145F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A518D9CD-F95E-4DB0-8D57-6BFCFAFD145F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33BF4F7E-2111-4529-9369-784B8E105569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BF4F7E-2111-4529-9369-784B8E105569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BF4F7E-2111-4529-9369-784B8E105569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BF4F7E-2111-4529-9369-784B8E105569}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
