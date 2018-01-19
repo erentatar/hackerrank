@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleSumPairs", "Divisi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfTheProgrammer", "DayOfTheProgrammer\DayOfTheProgrammer.csproj", "{FDC8AE40-03E7-4741-9126-DF6B4875CDB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonAppetit", "BonAppetit\BonAppetit.csproj", "{6918B8B5-3CCF-4DE8-9C94-DCDC5CCA9453}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{FDC8AE40-03E7-4741-9126-DF6B4875CDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDC8AE40-03E7-4741-9126-DF6B4875CDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDC8AE40-03E7-4741-9126-DF6B4875CDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6918B8B5-3CCF-4DE8-9C94-DCDC5CCA9453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6918B8B5-3CCF-4DE8-9C94-DCDC5CCA9453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6918B8B5-3CCF-4DE8-9C94-DCDC5CCA9453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6918B8B5-3CCF-4DE8-9C94-DCDC5CCA9453}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
