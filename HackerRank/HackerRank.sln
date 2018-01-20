@@ -27,21 +27,23 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekOfCode33", "WeekOfCode3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenUrls", "OpenUrls\OpenUrls.csproj", "{5EAFB9CB-BC2C-4378-8F4D-A5C589B280AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleAndOrange", "AppleAndOrange\AppleAndOrange.csproj", "{13B30766-B81D-4CAC-B81B-7B5BC19AD944}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppleAndOrange", "AppleAndOrange\AppleAndOrange.csproj", "{13B30766-B81D-4CAC-B81B-7B5BC19AD944}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo", "Kangaroo\Kangaroo.csproj", "{4F924EA5-648C-4B8E-9A96-8C86C09C69E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kangaroo", "Kangaroo\Kangaroo.csproj", "{4F924EA5-648C-4B8E-9A96-8C86C09C69E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakingTheRecords", "BreakingTheRecords\BreakingTheRecords.csproj", "{A518D9CD-F95E-4DB0-8D57-6BFCFAFD145F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BreakingTheRecords", "BreakingTheRecords\BreakingTheRecords.csproj", "{A518D9CD-F95E-4DB0-8D57-6BFCFAFD145F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayChocolate", "BirthdayChocolate\BirthdayChocolate.csproj", "{33BF4F7E-2111-4529-9369-784B8E105569}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirthdayChocolate", "BirthdayChocolate\BirthdayChocolate.csproj", "{33BF4F7E-2111-4529-9369-784B8E105569}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{B0D8DACC-C29A-4E7F-BD06-865BA2C7297F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{B0D8DACC-C29A-4E7F-BD06-865BA2C7297F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfTheProgrammer", "DayOfTheProgrammer\DayOfTheProgrammer.csproj", "{FDC8AE40-03E7-4741-9126-DF6B4875CDB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DayOfTheProgrammer", "DayOfTheProgrammer\DayOfTheProgrammer.csproj", "{FDC8AE40-03E7-4741-9126-DF6B4875CDB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonAppetit", "BonAppetit\BonAppetit.csproj", "{6918B8B5-3CCF-4DE8-9C94-DCDC5CCA9453}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BonAppetit", "BonAppetit\BonAppetit.csproj", "{6918B8B5-3CCF-4DE8-9C94-DCDC5CCA9453}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockMerchant", "SockMerchant\SockMerchant.csproj", "{E8FE70B2-5059-4D05-941D-23FB15556132}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SockMerchant", "SockMerchant\SockMerchant.csproj", "{E8FE70B2-5059-4D05-941D-23FB15556132}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicsShop", "ElectronicsShop\ElectronicsShop.csproj", "{30A2FB6F-214B-4320-B4EC-C14D81FE25E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{E8FE70B2-5059-4D05-941D-23FB15556132}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8FE70B2-5059-4D05-941D-23FB15556132}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8FE70B2-5059-4D05-941D-23FB15556132}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A2FB6F-214B-4320-B4EC-C14D81FE25E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A2FB6F-214B-4320-B4EC-C14D81FE25E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A2FB6F-214B-4320-B4EC-C14D81FE25E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A2FB6F-214B-4320-B4EC-C14D81FE25E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
