@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BonAppetit", "BonAppetit\Bo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SockMerchant", "SockMerchant\SockMerchant.csproj", "{E8FE70B2-5059-4D05-941D-23FB15556132}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicsShop", "ElectronicsShop\ElectronicsShop.csproj", "{30A2FB6F-214B-4320-B4EC-C14D81FE25E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectronicsShop", "ElectronicsShop\ElectronicsShop.csproj", "{30A2FB6F-214B-4320-B4EC-C14D81FE25E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormingMagicSquare", "FormingMagicSquare\FormingMagicSquare.csproj", "{73529B51-11F9-4671-AE3F-B856063F2990}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{30A2FB6F-214B-4320-B4EC-C14D81FE25E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30A2FB6F-214B-4320-B4EC-C14D81FE25E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30A2FB6F-214B-4320-B4EC-C14D81FE25E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73529B51-11F9-4671-AE3F-B856063F2990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73529B51-11F9-4671-AE3F-B856063F2990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73529B51-11F9-4671-AE3F-B856063F2990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73529B51-11F9-4671-AE3F-B856063F2990}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
