@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2024
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedBrackets", "BalancedBrackets\BalancedBrackets.csproj", "{41CBF2E1-5C85-4295-BE1D-A5E9DF3EEA85}"
 EndProject
@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BonAppetit", "BonAppetit\Bo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SockMerchant", "SockMerchant\SockMerchant.csproj", "{E8FE70B2-5059-4D05-941D-23FB15556132}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicsShop", "ElectronicsShop\ElectronicsShop.csproj", "{30A2FB6F-214B-4320-B4EC-C14D81FE25E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectronicsShop", "ElectronicsShop\ElectronicsShop.csproj", "{30A2FB6F-214B-4320-B4EC-C14D81FE25E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingTheLeaderboard", "ClimbingTheLeaderboard\ClimbingTheLeaderboard.csproj", "{CCF7CB18-C007-4B74-BF2C-327A7442BD21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{30A2FB6F-214B-4320-B4EC-C14D81FE25E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30A2FB6F-214B-4320-B4EC-C14D81FE25E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30A2FB6F-214B-4320-B4EC-C14D81FE25E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF7CB18-C007-4B74-BF2C-327A7442BD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF7CB18-C007-4B74-BF2C-327A7442BD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF7CB18-C007-4B74-BF2C-327A7442BD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF7CB18-C007-4B74-BF2C-327A7442BD21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
