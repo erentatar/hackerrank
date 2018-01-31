@@ -13,16 +13,11 @@ namespace Encryption
             int floor = (int)Math.Floor(Math.Sqrt(len));
             int ceiling = (int)Math.Ceiling(Math.Sqrt(len));
 
-            int col = floor;
-            while (col <= ceiling)
-            {
-                if (floor * col >= len)
-                    break;
+            int col = 0;
 
-                col++;
-            }
-
-            if (col > ceiling)
+            if (floor * floor >= len)
+                col = floor;
+            else if (floor * ceiling >= len || ceiling * ceiling >= len)
                 col = ceiling;
 
             string[] output = new string[col];
@@ -46,6 +41,7 @@ namespace Encryption
             string s = Console.ReadLine();
             string result = encryption(s);
             Console.WriteLine(result);
+            Console.ReadKey();
         }
     }
 }
