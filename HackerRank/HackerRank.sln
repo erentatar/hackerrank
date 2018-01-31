@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormingMagicSquare", "Formi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PickingNumbers", "PickingNumbers\PickingNumbers.csproj", "{166155B6-4B4D-411E-8943-725273EF7E6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingTheLeaderboard", "ClimbingTheLeaderboard\ClimbingTheLeaderboard.csproj", "{CF99DC91-4B61-4CD6-860D-65446CFB82CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClimbingTheLeaderboard", "ClimbingTheLeaderboard\ClimbingTheLeaderboard.csproj", "{CF99DC91-4B61-4CD6-860D-65446CFB82CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption", "Encryption\Encryption.csproj", "{27D69AF7-8357-431F-B09E-59AB487B2833}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{CF99DC91-4B61-4CD6-860D-65446CFB82CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF99DC91-4B61-4CD6-860D-65446CFB82CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF99DC91-4B61-4CD6-860D-65446CFB82CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D69AF7-8357-431F-B09E-59AB487B2833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D69AF7-8357-431F-B09E-59AB487B2833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D69AF7-8357-431F-B09E-59AB487B2833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D69AF7-8357-431F-B09E-59AB487B2833}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
