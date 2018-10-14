@@ -45,7 +45,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SockMerchant", "SockMerchan
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectronicsShop", "ElectronicsShop\ElectronicsShop.csproj", "{30A2FB6F-214B-4320-B4EC-C14D81FE25E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingTheLeaderboard", "ClimbingTheLeaderboard\ClimbingTheLeaderboard.csproj", "{CCF7CB18-C007-4B74-BF2C-327A7442BD21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClimbingTheLeaderboard", "ClimbingTheLeaderboard\ClimbingTheLeaderboard.csproj", "{CCF7CB18-C007-4B74-BF2C-327A7442BD21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieClusters", "ZombieClusters\ZombieClusters.csproj", "{FA44C97D-6E78-44C7-9193-27D6433018D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{1E03BAF1-CA2B-4119-A6DB-7CFD6BC32153}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +145,14 @@ Global
 		{CCF7CB18-C007-4B74-BF2C-327A7442BD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCF7CB18-C007-4B74-BF2C-327A7442BD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCF7CB18-C007-4B74-BF2C-327A7442BD21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA44C97D-6E78-44C7-9193-27D6433018D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA44C97D-6E78-44C7-9193-27D6433018D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA44C97D-6E78-44C7-9193-27D6433018D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA44C97D-6E78-44C7-9193-27D6433018D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E03BAF1-CA2B-4119-A6DB-7CFD6BC32153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E03BAF1-CA2B-4119-A6DB-7CFD6BC32153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E03BAF1-CA2B-4119-A6DB-7CFD6BC32153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E03BAF1-CA2B-4119-A6DB-7CFD6BC32153}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
