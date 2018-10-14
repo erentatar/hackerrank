@@ -40,7 +40,6 @@ namespace ClimbingTheLeaderboard
             int[] alice = Array.ConvertAll(alice_temp, Int32.Parse);
             int[] result = climbingLeaderboard(scores, alice);
             Console.WriteLine(String.Join("\n", result));
-            Console.ReadKey();
         }
     }
 }
