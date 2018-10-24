@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2026
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedBrackets", "BalancedBrackets\BalancedBrackets.csproj", "{41CBF2E1-5C85-4295-BE1D-A5E9DF3EEA85}"
 EndProject
@@ -45,11 +45,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SockMerchant", "SockMerchan
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectronicsShop", "ElectronicsShop\ElectronicsShop.csproj", "{30A2FB6F-214B-4320-B4EC-C14D81FE25E7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormingMagicSquare", "FormingMagicSquare\FormingMagicSquare.csproj", "{73529B51-11F9-4671-AE3F-B856063F2990}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClimbingTheLeaderboard", "ClimbingTheLeaderboard\ClimbingTheLeaderboard.csproj", "{CCF7CB18-C007-4B74-BF2C-327A7442BD21}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PickingNumbers", "PickingNumbers\PickingNumbers.csproj", "{166155B6-4B4D-411E-8943-725273EF7E6B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieClusters", "ZombieClusters\ZombieClusters.csproj", "{FA44C97D-6E78-44C7-9193-27D6433018D1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClimbingTheLeaderboard", "ClimbingTheLeaderboard\ClimbingTheLeaderboard.csproj", "{CF99DC91-4B61-4CD6-860D-65446CFB82CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{1E03BAF1-CA2B-4119-A6DB-7CFD6BC32153}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encryption", "Encryption\Encryption.csproj", "{27D69AF7-8357-431F-B09E-59AB487B2833}"
 EndProject
